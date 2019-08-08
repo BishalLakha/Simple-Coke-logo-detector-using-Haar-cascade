@@ -1,4 +1,4 @@
 ### Result
 
-![1565247271688](/home/bis/.config/Typora/typora-user-images/1565247271688.png)
+![1565247271688](/home/bis/Projects/Other project/coke-logo-detectoion/coke_logo_detection/results/logo_coke.png)
 
